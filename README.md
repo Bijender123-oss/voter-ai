@@ -1,5 +1,7 @@
 # VoteSmart AI – Smart Election Guide 🇮🇳
 
+**Live Demo:** [https://ambient-core-479614-g6.web.app](https://ambient-core-479614-g6.web.app)
+
 ## Problem Statement
 The lack of accessible, engaging, and user-friendly election education tools leads to misinformation, low voter turnout, and weak democratic participation in India. Complex processes and missing documentation deter many, especially first-time voters, from exercising their democratic right.
 

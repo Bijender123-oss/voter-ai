@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useAuth } from '../context/AuthContext';
-import { Vote, Shield, BookOpen, MapPin, Zap, ChevronRight, Globe2 } from 'lucide-react';
+import { Vote, Shield, BookOpen, MapPin, Zap, ChevronRight, Globe2, RefreshCw } from 'lucide-react';
 
 export default function OnboardingPage({ onComplete }) {
   const { saveProfile, continueAsGuest } = useAuth();
